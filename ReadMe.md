@@ -79,3 +79,7 @@ Start the server
 ![Website Screenshot1](https://github.com/Eshmika/Royal_institute/blob/db779ac34ecfeebafa2ce0b09fb9113f07302dfe/Documentation/screenshot1.png)
 ![Website Screenshot2](https://github.com/Eshmika/Royal_institute/blob/db779ac34ecfeebafa2ce0b09fb9113f07302dfe/Documentation/screenshot2.png)
 ![Website Screenshot3](https://github.com/Eshmika/Royal_institute/blob/db779ac34ecfeebafa2ce0b09fb9113f07302dfe/Documentation/screenshot3.png)
+![Picture1](https://github.com/TishanPerera/Royal_Institute-Management-System/assets/153063309/fec5c55f-ef64-4d9f-acfc-31af9f2c9e94)
+![Picture1](https://github.com/TishanPerera/Royal_Institute-Management-System/assets/153063309/5825df72-8b61-42e1-86f0-db81c568ccad)
+
+
