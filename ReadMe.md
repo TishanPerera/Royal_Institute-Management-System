@@ -65,8 +65,8 @@ Start the server
 
 ## Authors
 
-- [@Eshmika Hettiarachchi](https://github.com/Eshmika)
 - [@Tishan Perera](https://github.com/TishanPerera)
+- [@Eshmika Hettiarachchi](https://github.com/Eshmika)
 - [@Ashan Gunathilaka](https://github.com/AshanGunathilaka)
 - [@Samudra W](https://github.com/SamudraW)
 - [@Kaveesha Nimanji](https://github.com/nimanjik)
